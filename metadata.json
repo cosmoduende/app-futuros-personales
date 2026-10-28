@@ -1,0 +1,6 @@
+{
+  "name": "FuturoLab",
+  "description": "Explora tu futuro profesional, académico o emprendedor a 3 años mediante prospectiva personal (método Verne Wheelwright), escenarios alternativos y retroplanificación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
